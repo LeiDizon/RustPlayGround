@@ -1,0 +1,57 @@
+{
+  "recipes": [
+    {
+      "name": "Spaghetti Carbonara",
+      "ingredients": [
+        "400g spaghetti",
+        "200g pancetta or guanciale",
+        "4 large eggs",
+        "100g Pecorino Romano cheese",
+        "Black pepper",
+        "Salt"
+      ]
+    },
+    {
+      "name": "Chocolate Chip Cookies",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1 cup butter",
+        "3/4 cup granulated sugar",
+        "3/4 cup brown sugar",
+        "2 eggs",
+        "2 teaspoons vanilla extract",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "2 cups chocolate chips"
+      ]
+    },
+    {
+      "name": "Chicken Stir Fry",
+      "ingredients": [
+        "500g chicken breast",
+        "2 cups broccoli florets",
+        "1 red bell pepper",
+        "1 cup snap peas",
+        "3 cloves garlic",
+        "2 tablespoons soy sauce",
+        "1 tablespoon sesame oil",
+        "1 teaspoon ginger",
+        "2 tablespoons vegetable oil",
+        "White rice"
+      ]
+    },
+    {
+      "name": "Tomato Soup",
+      "ingredients": [
+        "800g canned tomatoes",
+        "1 onion",
+        "2 cloves garlic",
+        "500ml vegetable broth",
+        "200ml heavy cream",
+        "2 tablespoons olive oil",
+        "Salt and pepper",
+        "Fresh basil"
+      ]
+    }
+  ]
+}
